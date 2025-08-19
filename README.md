@@ -66,9 +66,9 @@ Install Dependencies:
 
 By using AI to promote sustainability, EcoBuddy AI helps:
 
--Individuals adopt greener habits.
--Communities reduce waste & energy consumption.
--The planet move toward a sustainable future 🌏.
+1.Individuals adopt greener habits.
+2.Communities reduce waste & energy consumption.
+3.The planet move toward a sustainable future 🌏.
 
 
 

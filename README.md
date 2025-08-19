@@ -33,7 +33,8 @@ We built **EcoBuddy AI**, an intelligent assistant that gives **personalized eco
 ## 🚀 Features
 - 🌍 Get eco-friendly tips instantly  
 - 🔋 Save energy, water, and resources  
-- 🧠 AI-power---
+- 🧠 AI-powered personalized recommendations  
+- 📱 Simple and clean user interface  
 
 ## ⚙️ Tech Stack & Feasibility
 - **Frontend:** HTML, CSS, JavaScript  
@@ -41,7 +42,7 @@ We built **EcoBuddy AI**, an intelligent assistant that gives **personalized eco
 - **AI:** OpenAI GPT APIs  
 - **Deployment:** GitHub Pages (frontend) + Render/Railway (backend)  
 
-This stack makes the project **lightweight, scalable, and demo-ready**.  
+
 
 ---
 
@@ -50,8 +51,6 @@ This stack makes the project **lightweight, scalable, and demo-ready**.
    ```bash
    git clone https://github.com/your-username/eco-advisor.git
    cd eco-advisor
-ed personalized recommendations  
-- 📱 Simple and clean user interface
 
 
 Install Dependencies:

@@ -60,16 +60,16 @@ Install Dependencies:
 - Add your OpenAI API key in :.env
 
 - Run the app:
-- python app.py
+ python app.py
 
 
 🎯 Impact
 
 By using AI to promote sustainability, EcoBuddy AI helps:
 
- *Individuals adopt greener habits
-*Communities reduce waste & energy consumption
-*The planet move toward a sustainable future 🌏
+ -Individuals adopt greener habits
+ -Communities reduce waste & energy consumption
+-The planet move toward a sustainable future 🌏
 
 
 

@@ -26,4 +26,4 @@ def eco_advice():
     return jsonify({"advice": advice})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True)  

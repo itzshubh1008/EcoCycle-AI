@@ -63,12 +63,12 @@ Install Dependencies:
  python app.py
 
 
-🎯 Impact
+## 🎯 Impact
 
 By using AI to promote sustainability, EcoBuddy AI helps:
 
- -Individuals adopt greener habits
- -Communities reduce waste & energy consumption
+-Individuals adopt greener habits
+-Communities reduce waste & energy consumption
 -The planet move toward a sustainable future 🌏
 
 
